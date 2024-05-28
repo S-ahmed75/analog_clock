@@ -10,3 +10,7 @@ It has a light theme and a dark theme, and displays sample weather and location 
 
 
 # analog_clock
+
+
+https://github.com/S-ahmed75/analog_clock/assets/41890981/37b27099-de30-49f9-923f-d7b378309407
+
